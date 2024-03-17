@@ -4,11 +4,11 @@
 
 * AWS AMplify : used to connect backend...
 
-* AppSync : backend , use graphql that is powered by AppSync
+* AWS AppSync : backend , use graphql that is powered by AppSync
 
 * VTL: velocity templates,handle crud operations, amplify provides automatically when we are configuring apis
 
 * Amazon Cognito : main authentication provider, also use IAM for authentication.
 
-* Used React and Stripe
+* Used React Js and Stripe
   
