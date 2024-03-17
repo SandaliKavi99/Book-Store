@@ -12,6 +12,17 @@ Amazon Cognito : main authentication provider, also use IAM for authentication
 
 Used React Js and Stripe
 
+npm i -g @aws-amplify/cli
+amplify configure
+amplify init
+amplify add auth : add Cognito authentication
+
+amplify add storage: add s3 bucket for images
+
+amplify add function : add lamda functions
+
+amplify add api
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
